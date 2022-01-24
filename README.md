@@ -1,5 +1,6 @@
-## Hi, I'm Petra 👋
-![](https://media1.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif?cid=ecf05e47b25stgh4r1nuls9jvka97hl8892u7bjolgm0zpiv&rid=giphy.gif&ct=s) 
+![hi](https://user-images.githubusercontent.com/85565743/150842104-163898a6-3c42-49c6-83e7-49d418ead6e4.png)
+
+
 ### I'm an aspiring Software Developer
 
 - I’m currently learning web development at [Founders and Coders](https://www.foundersandcoders.com/) as part of the Spring 22 Skills Bootcamp in London
@@ -21,3 +22,5 @@
 [![Petra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alternadiva)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alternadiva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/alternadiva)
