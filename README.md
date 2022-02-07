@@ -4,7 +4,9 @@
 
 ### I'm an aspiring Software Developer
 
+- 🔮 I spend my days experimenting with HTML, CSS, and JavaScript
 - 📝  I’m currently learning web development at [Founders and Coders](https://www.foundersandcoders.com/) as part of the Spring 22 Skills Bootcamp in London
+    -  [Application Website](https://alternadiva.github.io/FAC-Application-website/)
 - :building_construction: I'm currently working on [Wordle Game (Imitation)](https://github.com/alternadiva/Wordle-Game)
 - :jigsaw: I'm looking to collaborate with other content creators
 - :checkered_flag: Fun facts: I'm a Formula 1 fan and a hobby softball player
