@@ -4,8 +4,8 @@
 
 ### I'm an aspiring Software Developer
 
-- :eyeglasses:  I’m currently learning web development at [Founders and Coders](https://www.foundersandcoders.com/) as part of the Spring 22 Skills Bootcamp in London
-- :building_construction: I'm currently working on an [Agency Website](https://github.com/lascellesabercrombie/fac-project1)
+- 📝  I’m currently learning web development at [Founders and Coders](https://www.foundersandcoders.com/) as part of the Spring 22 Skills Bootcamp in London
+- :building_construction: I'm currently working on [Wordle Game (Imitation)](https://github.com/alternadiva/Wordle-Game)
 - :jigsaw: I'm looking to collaborate with other content creators
 - :checkered_flag: Fun facts: I'm a Formula 1 fan and a hobby softball player
 
